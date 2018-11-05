@@ -16,14 +16,4 @@
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <com.android.settings.applications.LayoutPreference
-        android:key="fingerprint_prefs_category"
-        android:fragment="com.dirtyunicorns.tweaks.fragments.FingerprintPrefs"
-        android:layout="@layout/fingerprint_prefs" />
-
-    <com.android.settings.applications.LayoutPreference
-        android:key="lockscreen_items_category"
-        android:fragment="com.dirtyunicorns.tweaks.fragments.LockscreenItems"
-        android:layout="@layout/lockscreen_items" />
-
 </PreferenceScreen>

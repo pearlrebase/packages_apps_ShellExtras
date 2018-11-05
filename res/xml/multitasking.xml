@@ -16,14 +16,4 @@
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <com.android.settings.applications.LayoutPreference
-        android:key="headsup_category"
-        android:fragment="com.dirtyunicorns.tweaks.fragments.HeadsUp"
-        android:layout="@layout/headsup" />
-
-    <com.android.settings.applications.LayoutPreference
-        android:key="recents_category"
-        android:fragment="com.dirtyunicorns.tweaks.fragments.Recents"
-        android:layout="@layout/recents" />
-
 </PreferenceScreen>
