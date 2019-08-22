@@ -26,52 +26,27 @@
     <string name="bottom_nav_navigation_title">Navigation</string>
     <string name="bottom_nav_multitasking_title">Multitasking</string>
 
-    <!-- Footer warnings -->
-    <string name="heads_up_warning_text">Heads up notifications are meant to be used for multitasking while using full screen apps and/or playing games. Just know that while you use heads up notifications, you will not be able to use the ticker feature.</string>
-    <string name="ticker_warning_text">The ticker feature is meant to be used as a mulitasking tool and brings a bit of splash of the old times. Just know that while you use the ticker feature, you will not be able to use heads up notifications.</string>
-
     <!-- Categories -->
-    <!-- System -->
-    <string name="device_extras_title">Device extras</string>
-    <string name="device_extras_summary">Tweaks specific to your device</string>
-    <string name="miscellaneous_title">Miscellaneous</string>
-    <string name="miscellaneous_summary">Tweaks that do not fit in other categories</string>
-    <string name="powermenu_title">Power menu</string>
-    <string name="powermenu_summary">Configure power menu options such as flashlight, airplane mode or screenshot</string>
-    <!-- Lockscreen -->
-    <string name="fingerprint_prefs_title">Fingerprint prefs</string>
-    <string name="fingerprint_prefs_summary">Tweaks specific to the fingerprint scanner</string>
-    <string name="lockscreen_items_title">Lockscreen items</string>
-    <string name="lockscreen_items_summary">Remove or add items to your lockscreen</string>
-    <!-- Statusbar -->
-    <string name="battery_options_title">Battery options</string>
-    <string name="battery_options_summary">Customize the statusbar or QS tile battery</string>
-    <string name="carrier_label_title">Carrier label</string>
-    <string name="carrier_label_summary">Customize your statusbar carrier label</string>
-    <string name="clock_options_title">Clock options</string>
-    <string name="clock_options_summary">Customize your statusbar clock</string>
-    <string name="notifications_title">Notifications</string>
-    <string name="notifications_summary">Tweaks specific to system notifications</string>
-    <string name="quicksettings_title">Quick settings</string>
-    <string name="quicksettings_summary">Configure the quick settings with options ranging from headers to weather</string>
-    <string name="statusbar_items_title">Statusbar items</string>
-    <string name="statusbar_items_summary">Configure the visibility of statusbar items</string>
-    <string name="ticker_title">Ticker</string>
-    <string name="ticker_summary">Enable the statusbar ticker and configure ticker related tweaks</string>
-    <string name="traffic_title">Traffic indicators</string>
-    <string name="traffic_summary">Enable traffic indicators on the statusbar and configure traffic related tweaks</string>
-    <!-- Navigation -->
-    <string name="buttons_title">Buttons</string>
-    <string name="buttons_summary">Configure hardware keys and/or volume rocker options</string>
-    <string name="navigationbar_title">Navigation bar</string>
-    <string name="navigationbar_summary">Configure smartbar, fling or pulse</string>
-    <!-- Multitasking -->
-    <string name="headsup_title">Heads up</string>
-    <string name="headsup_summary">Configure heads up options</string>
-    <string name="omniswitch_title">Omniswitch</string>
-    <string name="omniswitch_summary">Configure OmniSwitch options</string>
-    <string name="recents_title">Recents</string>
-    <string name="recents_summary">Configure OmniSwitch or AOSP recents</string>
+    <string name="battery_category">Battery</string>
+
+    <!-- Battery percentage -->
+    <string name="battery_style_category_title">Battery icon style</string>
+    <string name="battery_style_category_summary">Change the style of the status bar battery icon</string>
+    <string name="status_bar_battery_percentage_title">Battery percentage</string>
+    <string name="status_bar_battery_percentage_summary">Show the current battery level percentage</string>
+    <string name="status_bar_battery_percentage_default">Hidden</string>
+    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
+    <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
+
+    <!-- Status bar battery style-->
+    <string name="status_bar_battery_style_title">Battery style</string>
+    <string name="status_bar_battery_style_port">Portrait</string>
+    <string name="status_bar_battery_style_circle">Circle</string>
+    <string name="status_bar_battery_style_dotted_circle">Dotted circle</string>
+    <string name="status_bar_battery_style_big_circle">Big circle</string>
+    <string name="status_bar_battery_style_big_dotted_circle">Big dotted circle</string>
+    <string name="status_bar_battery_style_text">Text</string>
+    <string name="status_bar_battery_style_hidden">Hidden</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color Picker</string>
@@ -83,4 +58,5 @@
     <string name="set">Set</string>
     <string name="color_default">Default</string>
 
+    
 </resources>
