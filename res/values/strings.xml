@@ -59,5 +59,8 @@
     <string name="set">Set</string>
     <string name="color_default">Default</string>
 
+    <!-- Face Unlock -->
+    <string name="face_auto_unlock_title">Face auto unlock</string>
+    <string name="face_auto_unlock_summary">Dismiss lockscreen after face unlocking</string>
     
 </resources>
